@@ -1,0 +1,46 @@
+Zone,Station,2021 - Fatal,2021 - Killed,2021 - Non-Fatal,2021 - Injured,2021 - Total Cases,2022 - Fatal,2022 - Killed,2022 - Non-Fatal,2022 - Injured,2022 - Total Cases
+East,Cubbon Park,4,4,34,35,38,4,5,33,31,37
+East,H.Grounds,2,2,36,38,38,4,4,45,33,49
+East,S.S.Nagar,4,4,60,51,64,13,13,55,50,68
+East,U.Gate,3,3,22,26,25,5,5,30,27,35
+East,Ashokanagar,5,5,37,48,42,4,4,31,29,35
+East,W.Garden,9,9,49,55,58,6,7,48,51,54
+East,Ulsoor,19,19,28,35,47,13,14,63,80,76
+East,Indiranagar,5,5,27,28,32,13,13,35,40,48
+East,F.Town,10,10,9,7,19,4,4,5,5,9
+East,Banasawadi,20,21,79,81,99,22,22,94,118,116
+East,Shivajinagar,3,3,8,5,11,4,4,21,25,25
+East,K G Halli,5,5,17,18,22,7,7,23,24,30
+East,Adugodi,2,8,17,20,19,6,6,36,41,42
+East,Madivala,8,8,46,51,54,13,13,32,30,45
+East,Electronic City,27,30,102,116,129,26,26,113,128,139
+East,Mico layout,9,9,61,60,70,11,11,42,44,53
+East,HuliMavu,6,6,68,71,74,10,11,103,93,113
+East,HSR Layout,15,15,41,49,56,14,14,50,56,64
+East,K.R.Pura,17,18,47,48,64,39,39,166,191,205
+East,Airport,34,35,109,113,143,18,18,65,65,83
+East,White Field,24,24,67,83,91,39,39,127,127,166
+West,Upparpet,4,4,17,18,21,3,3,24,25,27
+West,Chickpet,6,6,24,21,30,7,7,33,32,40
+West,City Market,2,2,5,4,7,3,3,15,14,18
+West,Magadi Road,4,4,24,23,28,4,4,16,17,20
+West,Vijayanagar,8,8,86,96,94,9,9,75,83,84
+West,B.Pura,21,21,100,90,121,39,40,122,110,161
+West,Kamakshipalya,33,34,124,117,157,49,50,151,146,200
+West,Kengeri,22,24,85,82,107,34,36,87,108,121
+West,Malleswaram,6,6,30,32,36,6,6,50,45,56
+West,Rajajinagar,14,14,52,58,66,25,27,76,77,101
+West,Y.Pura,13,14,66,59,79,13,13,61,55,74
+West,Peenya,22,22,103,113,125,32,33,146,135,178
+West,Jalahalli,22,23,68,80,90,15,16,65,75,80
+West,Chamarajapet,6,6,22,24,28,7,7,44,46,51
+West,Basavanagudi,5,5,43,31,48,7,7,78,59,85
+West,Jayanagar,10,10,50,55,60,8,8,85,89,93
+West,Banashankari,13,13,57,58,70,16,17,51,55,67
+West,K.Swamy Lyt.,45,48,95,129,140,34,36,141,159,175
+North,RT Nagar,10,10,55,50,65,11,11,56,50,67
+North,Hebbala,18,18,97,99,115,29,30,72,88,101
+North,Yelahanka,48,52,124,151,172,53,56,151,154,204
+North,Chikjala,32,40,157,191,189,42,42,132,144,174
+North,Devanahalli,23,24,145,209,168,30,31,124,164,154
+,Grand Total,618,651,2593,2828,3211,751,771,3072,3218,3823

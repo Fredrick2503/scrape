@@ -1,0 +1,64 @@
+Zone,Sub-division,Station,2023 - Fatal Cases,2023 - Killed People,2023 - Non-Fatal,2023 - Injured People,2023 - Total Cases
+East,East,Halasooru,11,11,56,48,67
+East,East,Indiranagar,12,12,73,62,85
+East,East,Pulikeshinagar,4,4,23,24,27
+East,East,Banasawadi,14,15,77,82,91
+East,East,Shivajinagar,6,6,21,19,27
+East,East,K G Halli,6,6,34,39,40
+,East ,Total,53,54,284,274,337
+East,Whitefield,K R Puram,41,42,213,217,254
+East,Whitefield,Airport,17,17,80,80,97
+East,Whitefield,Whitefield,43,44,180,163,223
+East,Whitefield,Mahadevapura,11,12,82,72,93
+,Whitefield,Total,112,115,555,532,667
+East,,East Total,165,169,839,806,1004
+West,Central,Cubbon Park,2,2,54,41,56
+West,Central,H.Grounds,6,6,50,47,56
+West,Central,S.S.Nagar,8,8,39,33,47
+West,Central,U.Gate,7,8,47,44,54
+West,Central,Ashokanagar,6,6,32,30,38
+West,Central,W.Garden,6,6,59,45,65
+,Central,Total,35,36,281,240,316
+West,West,Upparpet,9,9,20,18,29
+West,West,Chickpet,9,10,37,31,46
+West,West,City Market,9,9,23,28,32
+West,West,Bytarayanapura,19,19,163,125,182
+West,West,Kengeri,58,59,221,237,279
+,West,Total,104,106,464,439,568
+West,Vijayanagar,Vijayanagar,16,16,63,66,79
+West,Vijayanagar,Magadi Road,7,7,43,42,50
+West,Vijayanagar,Kamakshipalya,40,41,201,202,241
+,Vijayanagar,Total,63,64,307,310,370
+West,,West Total,202,206,1052,989,1254
+North,North East,R T Nagar,8,8,74,63,82
+North,North East,Hebbala,24,24,120,118,144
+North,North East,Yalahanka,58,63,178,222,236
+North,North East,Chikkajala,36,39,101,129,137
+North,North East,Int. Aiport,59,61,173,215,232
+North,North East,Hennuru,23,24,80,84,103
+,North East,Total,208,219,726,831,934
+North,North,Malleshwaram,18,18,81,88,99
+North,North,Rajajinagar,16,17,86,82,102
+North,North,Yashawanthapura,21,22,85,82,106
+North,North,Peenya,32,32,160,191,192
+North,North,Jalahalli,28,29,74,84,102
+,North,Total,115,118,486,527,601
+North,,North Total,323,337,1212,1358,1535
+South,South East,Adugodi,10,10,53,67,63
+South,South East,Madivala,14,14,59,53,73
+South,South East,Micolayout,14,14,74,71,88
+South,South East,Hulimavu,16,16,92,117,108
+,South East,Total,54,54,278,308,332
+South,South,Chamarajpet,4,4,25,22,29
+South,South,Basavanagudi,3,3,99,98,102
+South,South,Jayanagar,13,13,77,77,90
+South,South,Banashankari,15,15,75,66,90
+South,South,K S Layout,18,18,136,137,154
+South,South,Thalagattapura,22,26,67,69,89
+,South,Total,75,79,479,469,554
+South,HSR Layout,HSR Layout,16,17,40,56,56
+South,HSR Layout,Electronic City,38,39,158,171,196
+South,HSR Layout,Bellanduru,9,9,34,34,43
+,HSR Layout,Total,63,65,232,261,295
+South,,South Total,192,198,989,1038,1181
+Total,,Grand Total,882,910,4092,4191,4974
